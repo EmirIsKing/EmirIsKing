@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm King!<br>Welcome to my GitHub profile! I'm a passionate 20-year-old coder.
 - 🔭 I’m currently working on a personal project
-- 🌱 I’m currently learning NextJs
 - 📫 How to reach me: instagram @emir.is.king
 
 
